@@ -1,0 +1,25 @@
+.add_menu form {
+    margin: 40px;
+    text-align: center;
+    padding: 20px;
+}
+.add_menu form input{
+    outline: none;
+    border-radius: 8px;
+    border: 6px solid #EEE;
+    height: 40px;
+    width: 125px;
+}
+.remov form {
+    margin: 40px;
+    text-align: center;
+    padding: 20px;
+}
+.remov form input{
+    outline: none;
+    border-radius: 8px;
+    border: 6px solid #EEE;
+    height: 40px;
+    width: 125px;
+}
+
